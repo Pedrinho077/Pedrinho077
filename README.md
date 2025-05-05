@@ -1,7 +1,7 @@
 <h1>Sejam bem-vindos ao meu perfil do GitHub</h1>
 
 <h2>Sobre mim:<h2>
-Eu João Pedro Alves tenho 16 anos resido na Zona Sul de São Paulo, entusiasta de tudo que envolve tecnologia, jogos e carros. Meu sonho é trabalhar com programação e me formar em Engenharia Mecânica Automotiva.
+Eu João Pedro Alves tenho 17 anos resido na Zona Sul de São Paulo, entusiasta de tudo que envolve tecnologia, jogos e carros. Meu sonho é trabalhar com programação e me formar em Engenharia Mecânica Automotiva.
 
 <h2>Experiencias</h2>
 Cursos Feitos: Dois cursos de Mecânica Automotiva e um de Injeção de veículos leves e pesados no SENAI.
